@@ -1,16 +1,32 @@
-# flutter_quiz_application
+# Quiz App ❓
 
-A new Flutter project.
+A mobile Quiz game built with Flutter 💙
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## fetures :
+- Amazing UI
+- Calculate your correct answers
+- Simple & Clean Code 
+- react for every point you earn
+- etc...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## What will be add in future ?:
+
+- [ ] Customization capability
+- [ ] Change the correct || wrong answers
+- [ ] Limited movement in ten seconds
+- [ ] The ability to play with AI or others
+- [ ] Various sections and questions
+- [ ] Game Sound
+- [ ] Like or dislike question
+
+
+## Game Preview 🎥
+<img src="readme/preview-1.gif" width="250"/>
+
+
+## Game Screenshots 📷
+<img src="readme/1.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="readme/2.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/3.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/4.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/5.jpg" width="250"/>
