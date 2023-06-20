@@ -30,3 +30,8 @@ A mobile Quiz game built with Flutter 💙
 
 ## Game Screenshots 📷
 <img src="readme/1.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="readme/2.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/3.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/4.jpg" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/5.jpg" width="250"/>
+
+---
+## 🙏 Support
+
+Don't forget to leave a star ⭐️
